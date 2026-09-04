@@ -13,8 +13,8 @@ export DEBIAN_FRONTEND=noninteractive
 export APT_LISTCHANGES_FRONTEND=none
 
 echo -e "\033[1;36m==========================================================\033[0m"
-echo -e "\033[1;35m                Odysseus AI - Android                     \033[0m"
-echo -e "\033[1;32m                    thevoidkernel                         \033[0m"
+echo -e "\033[1;35m                    Odysseus                   \033[0m"
+echo -e "\033[1;32m                    Unlocked                        \033[0m"
 echo -e "\033[1;36m==========================================================\033[0m"
 echo -e "\033[1;33m       Starting Non-Interactive Installer...              \033[0m"
 echo -e "\033[1;36m==========================================================\033[0m"
@@ -84,7 +84,7 @@ proot-distro login ubuntu -- bash -c '
 
     echo ""
     echo -e "\033[1;32m==========================================================\033[0m"
-    echo -e "\033[1;36m        Odysseus AI - Android - Installed Successfully!   \033[0m"
+    echo -e "\033[1;36m        Odysseus - Installed Successfully!   \033[0m"
     echo -e "\033[1;32m==========================================================\033[0m"
     echo -e "\033[1;33mDefault Login Credentials:\033[0m"
     echo -e "  Username: \033[1;37madmin\033[0m"
