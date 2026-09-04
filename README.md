@@ -28,11 +28,11 @@ curl -sSL https://raw.githubusercontent.com/cloudaii/Odysseus/main/install.sh | 
 ```
 ## start server 
 ```
-./run-sh
-
+./run.sh
 ```
 ## Default Credentials
 Use these details to log in to the dashboard at http://localhost:7000:
 
-Username: admin
-Password: 71807180
+• Username: admin
+
+• Password: 71807180
